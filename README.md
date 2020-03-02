@@ -3,6 +3,9 @@ ______________________________________________________________
 The app is written in Vue.js . 
 This is a home accounting Department where you can keep a record of the financial resources spent for a particular period.
 Also inside the app this is well shown in the diagram.
+
+Working version and ready in the dev branch.
+Branch master-for training, who wants...
 ______________________________________________________________
 
 Authorization
